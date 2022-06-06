@@ -1,0 +1,12 @@
+[submodule "Modulo 4"]
+	path = Modulo 4
+	url = https://github.com/begeistert/PerformanceTesting
+[submodule "Modulo 3"]
+	path = Modulo 3
+	url = https://github.com/begeistert/WebAutomationPostworks
+[submodule "Modulo 2"]
+	path = Modulo 2
+	url = https://github.com/begeistert/PostworksBedu
+[submodule "Modulo 1"]
+	path = Modulo 1
+	url = https://github.com/victorjair/bedupostwork
